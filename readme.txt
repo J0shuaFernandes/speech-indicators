@@ -1,0 +1,1 @@
+Install all the required dependencies using 'pip install -r requirements.txt' and run 'main.py'
